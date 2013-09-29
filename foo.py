@@ -6,4 +6,4 @@ def featureA:
     print "Feature A"
 
 def featureC:
-    print "Feature"
+    print "Feature C"
