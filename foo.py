@@ -3,4 +3,4 @@
 # Let's start this project
 
 def featureA:
-    print "Feature"
+    print "Feature A"
