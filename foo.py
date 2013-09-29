@@ -7,3 +7,7 @@ def featureA:
 
 def featureB:
     print "Feature B"
+
+def featureC:
+    print "Feature C"
+
