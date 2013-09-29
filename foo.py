@@ -4,3 +4,6 @@
 
 def featureA:
     print "Feature A"
+
+def featureB:
+    print "Feature"
