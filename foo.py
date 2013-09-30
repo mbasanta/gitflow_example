@@ -2,13 +2,13 @@
 
 # Let's start this project
 
-def featureA:
+def featureA():
     print "Feature A"
 
-def featureB:
+def featureB():
     print "Feature B"
 
-def featureC:
+def featureC():
     print "Feature C"
 
 if __name__ == "__main__":
