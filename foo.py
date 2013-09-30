@@ -11,3 +11,7 @@ def featureB:
 def featureC:
     print "Feature C"
 
+if __name__ == "__main__":
+    featureA()
+    featureB()
+    featureC()
